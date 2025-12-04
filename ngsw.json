@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1764855839372,
+  "timestamp": 1764858137164,
   "index": "/Milk-Men-Frontend/index.html",
   "assetGroups": [
     {
@@ -20,10 +20,10 @@
         "/Milk-Men-Frontend/chunk-KFMUF35A.js",
         "/Milk-Men-Frontend/chunk-M2ISICNC.js",
         "/Milk-Men-Frontend/chunk-O6A225P5.js",
-        "/Milk-Men-Frontend/chunk-V5UBGCEI.js",
+        "/Milk-Men-Frontend/chunk-QPNHCFTN.js",
         "/Milk-Men-Frontend/chunk-XL275TKN.js",
         "/Milk-Men-Frontend/index.html",
-        "/Milk-Men-Frontend/main-7TUBIFBV.js",
+        "/Milk-Men-Frontend/main-EHWA5FS7.js",
         "/Milk-Men-Frontend/polyfills-5CFQRCPP.js",
         "/Milk-Men-Frontend/scripts-TTWY4XDY.js",
         "/Milk-Men-Frontend/styles-DHJ4Y2RA.css"
@@ -75,10 +75,10 @@
     "/Milk-Men-Frontend/chunk-KFMUF35A.js": "6bf0cc6f5f13a8eb7979619ee514715cd8bee201",
     "/Milk-Men-Frontend/chunk-M2ISICNC.js": "f09130a9289f332f964d57efb5afe039d0a9c8cd",
     "/Milk-Men-Frontend/chunk-O6A225P5.js": "56bab86f0ddab36c224845716c4b2287e747118a",
-    "/Milk-Men-Frontend/chunk-V5UBGCEI.js": "9f90deb0d1b50b91fdc77b043e10ea71fa93e3e9",
+    "/Milk-Men-Frontend/chunk-QPNHCFTN.js": "3a766cee1ba082ded73e4cf0c402a9f581a96adf",
     "/Milk-Men-Frontend/chunk-XL275TKN.js": "124e18e9ab47243a986a73eba91eaed852e8d902",
-    "/Milk-Men-Frontend/index.html": "6b03811b91703bd3a8fe2d796a1b98f8c8b8ff0d",
-    "/Milk-Men-Frontend/main-7TUBIFBV.js": "ceda356a3306ef5dff529ef4e9a9a2bfd9aeb7dc",
+    "/Milk-Men-Frontend/index.html": "b4745ccbbddd7ab9f175addf9fa509b8a948ce31",
+    "/Milk-Men-Frontend/main-EHWA5FS7.js": "bf4302fd53498c6c515d9f712c6bcbbee8e151a8",
     "/Milk-Men-Frontend/media/Blank_BG-2EKRS3WZ.png": "12fbce543bd663dad37c1cf8e26adb49ea621824",
     "/Milk-Men-Frontend/media/Logo-10-KMPEZS3R.jpg": "4d5005ff5a9706a21d6144e980cdf6bb237733f9",
     "/Milk-Men-Frontend/media/bootstrap-icons-CVBWLLHT.woff2": "b441fcff939e24fa0906a37b7788788b9fddbb68",
